@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/deepanshuu05/Daily-leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [3731-find-missing-elements](https://github.com/deepanshuu05/Daily-leetcode/tree/master/3731-find-missing-elements) |
 ## Backtracking
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/deepanshuu05/Daily-leetcode/tree/master/1406-stone-game-iii) |
+| [3731-find-missing-elements](https://github.com/deepanshuu05/Daily-leetcode/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -47,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/deepanshuu05/Daily-leetcode/tree/master/0151-reverse-words-in-a-string) |
+## Sorting
+|  |
+| ------- |
+| [3731-find-missing-elements](https://github.com/deepanshuu05/Daily-leetcode/tree/master/3731-find-missing-elements) |
 <!---LeetCode Topics End-->
