@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/deepanshuu05/Daily-leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0290-word-pattern](https://github.com/deepanshuu05/Daily-leetcode/tree/master/0290-word-pattern) |
 | [0459-repeated-substring-pattern](https://github.com/deepanshuu05/Daily-leetcode/tree/master/0459-repeated-substring-pattern) |
+| [0890-find-and-replace-pattern](https://github.com/deepanshuu05/Daily-leetcode/tree/master/0890-find-and-replace-pattern) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/deepanshuu05/Daily-leetcode/tree/master/2264-largest-3-same-digit-number-in-string) |
 ## String Matching
 |  |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/deepanshuu05/Daily-leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0290-word-pattern](https://github.com/deepanshuu05/Daily-leetcode/tree/master/0290-word-pattern) |
+| [0890-find-and-replace-pattern](https://github.com/deepanshuu05/Daily-leetcode/tree/master/0890-find-and-replace-pattern) |
 | [3731-find-missing-elements](https://github.com/deepanshuu05/Daily-leetcode/tree/master/3731-find-missing-elements) |
 ## Backtracking
 |  |
@@ -26,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0890-find-and-replace-pattern](https://github.com/deepanshuu05/Daily-leetcode/tree/master/0890-find-and-replace-pattern) |
 | [1406-stone-game-iii](https://github.com/deepanshuu05/Daily-leetcode/tree/master/1406-stone-game-iii) |
 | [3731-find-missing-elements](https://github.com/deepanshuu05/Daily-leetcode/tree/master/3731-find-missing-elements) |
 ## Math
