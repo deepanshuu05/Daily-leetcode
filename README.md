@@ -77,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/deepanshuu05/Daily-leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
+## Linked List
+|  |
+| ------- |
+| [0092-reverse-linked-list-ii](https://github.com/deepanshuu05/Daily-leetcode/tree/master/0092-reverse-linked-list-ii) |
 <!---LeetCode Topics End-->
