@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/deepanshuu05/Daily-leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/deepanshuu05/Daily-leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/deepanshuu05/Daily-leetcode/tree/master/0092-reverse-linked-list-ii) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/deepanshuu05/Daily-leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Enumeration
 |  |
 | ------- |
