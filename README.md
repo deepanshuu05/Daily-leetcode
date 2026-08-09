@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/deepanshuu05/Daily-leetcode/tree/master/0092-reverse-linked-list-ii) |
+| [0725-split-linked-list-in-parts](https://github.com/deepanshuu05/Daily-leetcode/tree/master/0725-split-linked-list-in-parts) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/deepanshuu05/Daily-leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Enumeration
 |  |
