@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/deepanshuu05/Daily-leetcode/tree/master/0290-word-pattern) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/deepanshuu05/Daily-leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0890-find-and-replace-pattern](https://github.com/deepanshuu05/Daily-leetcode/tree/master/0890-find-and-replace-pattern) |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/deepanshuu05/Daily-leetcode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/deepanshuu05/Daily-leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/deepanshuu05/Daily-leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/deepanshuu05/Daily-leetcode/tree/master/3731-find-missing-elements) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0890-find-and-replace-pattern](https://github.com/deepanshuu05/Daily-leetcode/tree/master/0890-find-and-replace-pattern) |
 | [1406-stone-game-iii](https://github.com/deepanshuu05/Daily-leetcode/tree/master/1406-stone-game-iii) |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/deepanshuu05/Daily-leetcode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/deepanshuu05/Daily-leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/deepanshuu05/Daily-leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3477-fruits-into-baskets-ii](https://github.com/deepanshuu05/Daily-leetcode/tree/master/3477-fruits-into-baskets-ii) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/deepanshuu05/Daily-leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/deepanshuu05/Daily-leetcode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/deepanshuu05/Daily-leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Stack
 |  |
