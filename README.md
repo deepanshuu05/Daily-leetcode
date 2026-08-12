@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/deepanshuu05/Daily-leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0890-find-and-replace-pattern](https://github.com/deepanshuu05/Daily-leetcode/tree/master/0890-find-and-replace-pattern) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/deepanshuu05/Daily-leetcode/tree/master/2264-largest-3-same-digit-number-in-string) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/deepanshuu05/Daily-leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## String Matching
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/deepanshuu05/Daily-leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/deepanshuu05/Daily-leetcode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/deepanshuu05/Daily-leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/deepanshuu05/Daily-leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Stack
 |  |
