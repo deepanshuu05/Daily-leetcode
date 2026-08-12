@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/deepanshuu05/Daily-leetcode/tree/master/1406-stone-game-iii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/deepanshuu05/Daily-leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/deepanshuu05/Daily-leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3477-fruits-into-baskets-ii](https://github.com/deepanshuu05/Daily-leetcode/tree/master/3477-fruits-into-baskets-ii) |
 | [3731-find-missing-elements](https://github.com/deepanshuu05/Daily-leetcode/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -95,4 +96,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/deepanshuu05/Daily-leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+## Binary Search
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/deepanshuu05/Daily-leetcode/tree/master/3477-fruits-into-baskets-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/deepanshuu05/Daily-leetcode/tree/master/3477-fruits-into-baskets-ii) |
+## Simulation
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/deepanshuu05/Daily-leetcode/tree/master/3477-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/deepanshuu05/Daily-leetcode/tree/master/3477-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
