@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/deepanshuu05/Daily-leetcode/tree/master/0290-word-pattern) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/deepanshuu05/Daily-leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/deepanshuu05/Daily-leetcode/tree/master/0459-repeated-substring-pattern) |
+| [0657-robot-return-to-origin](https://github.com/deepanshuu05/Daily-leetcode/tree/master/0657-robot-return-to-origin) |
 | [0890-find-and-replace-pattern](https://github.com/deepanshuu05/Daily-leetcode/tree/master/0890-find-and-replace-pattern) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/deepanshuu05/Daily-leetcode/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/deepanshuu05/Daily-leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/deepanshuu05/Daily-leetcode/tree/master/0657-robot-return-to-origin) |
 | [3477-fruits-into-baskets-ii](https://github.com/deepanshuu05/Daily-leetcode/tree/master/3477-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
