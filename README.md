@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/deepanshuu05/Daily-leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0542-01-matrix](https://github.com/deepanshuu05/Daily-leetcode/tree/master/0542-01-matrix) |
 | [0890-find-and-replace-pattern](https://github.com/deepanshuu05/Daily-leetcode/tree/master/0890-find-and-replace-pattern) |
 | [1406-stone-game-iii](https://github.com/deepanshuu05/Daily-leetcode/tree/master/1406-stone-game-iii) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/deepanshuu05/Daily-leetcode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/deepanshuu05/Daily-leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0542-01-matrix](https://github.com/deepanshuu05/Daily-leetcode/tree/master/0542-01-matrix) |
 | [1406-stone-game-iii](https://github.com/deepanshuu05/Daily-leetcode/tree/master/1406-stone-game-iii) |
 ## Minimax
 |  |
@@ -129,4 +131,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/deepanshuu05/Daily-leetcode/tree/master/0416-partition-equal-subset-sum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0542-01-matrix](https://github.com/deepanshuu05/Daily-leetcode/tree/master/0542-01-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0542-01-matrix](https://github.com/deepanshuu05/Daily-leetcode/tree/master/0542-01-matrix) |
 <!---LeetCode Topics End-->
